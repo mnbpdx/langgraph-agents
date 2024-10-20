@@ -1,1 +1,1 @@
-Been playing around with Langchain/Langgraph, building some LLM chains/chatbots/agents
+We've been playing around with LangChain/LangGraph, building some LLM chains/chatbots/agents.
